@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/yummy/static/css/main.c9c54ab8.css",
-    "main.js": "/yummy/static/js/main.18a59b43.js",
+    "main.css": "/yummy/static/css/main.1764d18f.css",
+    "main.js": "/yummy/static/js/main.2c213aba.js",
     "static/media/start.png": "/yummy/static/media/start.fefb9ec1b181413f6044.png",
     "index.html": "/yummy/index.html",
-    "main.c9c54ab8.css.map": "/yummy/static/css/main.c9c54ab8.css.map",
-    "main.18a59b43.js.map": "/yummy/static/js/main.18a59b43.js.map"
+    "main.1764d18f.css.map": "/yummy/static/css/main.1764d18f.css.map",
+    "main.2c213aba.js.map": "/yummy/static/js/main.2c213aba.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9c54ab8.css",
-    "static/js/main.18a59b43.js"
+    "static/css/main.1764d18f.css",
+    "static/js/main.2c213aba.js"
   ]
 }
